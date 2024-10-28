@@ -12,3 +12,6 @@ class Array
     arr.each
   end
 end
+
+
+#Testing if the git config works as expected
